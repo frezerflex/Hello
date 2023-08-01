@@ -12,6 +12,8 @@ LICENSE: [BSD](license.md/)
 
 2.[git add](./add.md)
 
+3.[git commit](comm.md)
+
 ---
 
 
