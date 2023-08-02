@@ -16,6 +16,10 @@ LICENSE: [BSD](license.md/)
 
 4.[git status](status.md)
 
+5.[git rm dirname/somefile.sd](rm.md)
+
+6.[git revert HEAD](revert.md)
+
 ---
 
 
