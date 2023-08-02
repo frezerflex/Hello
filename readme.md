@@ -3,7 +3,7 @@
 
 LICENSE: [BSD](license.md/)
 
-![Git-logo.svg](./assets/Git-logo.svg.png)
+![Git-logo.svg](./assets/Git-logo.svg.png/)
 
 ---
 
@@ -23,6 +23,8 @@ LICENSE: [BSD](license.md/)
 7.[git branch new_branch_name](new_branch.md)
 
 8.[git push](push.md)
+
+9.[git pull](pull.md)
 
 ---
 
