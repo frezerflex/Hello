@@ -20,6 +20,8 @@ LICENSE: [BSD](license.md/)
 
 6.[git revert HEAD](revert.md)
 
+7.[git branch new_branch_name](new_branch.md)
+
 ---
 
 
