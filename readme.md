@@ -22,6 +22,8 @@ LICENSE: [BSD](license.md/)
 
 7.[git branch new_branch_name](new_branch.md)
 
+8.[git push](push.md)
+
 ---
 
 
